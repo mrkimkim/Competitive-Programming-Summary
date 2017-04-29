@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\2year\challenge\codeforces\#406 div1\prob_b\prob_b\source.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(172): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\2year\challenge\codeforces\#406 div1\prob_b\prob_b\source.cpp(120): note: see reference to function template instantiation 'std::pair<long,int>::pair<int&,__int64&,void,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=__int64 &
+          ]
+  c:\2year\challenge\codeforces\#406 div1\prob_b\prob_b\source.cpp(120): note: see reference to function template instantiation 'std::pair<long,int>::pair<int&,__int64&,void,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=__int64 &
+          ]
+  Prob_B.vcxproj -> C:\2Year\Challenge\Codeforces\#406 Div1\Prob_B\Debug\Prob_B.exe
+  Prob_B.vcxproj -> C:\2Year\Challenge\Codeforces\#406 Div1\Prob_B\Debug\Prob_B.pdb (Partial PDB)

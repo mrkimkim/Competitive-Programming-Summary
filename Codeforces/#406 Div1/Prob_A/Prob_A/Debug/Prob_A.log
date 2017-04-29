@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\2year\challenge\codeforces\#406 div1\prob_a\prob_a\source.cpp(62): warning C4553: '==': operator has no effect; did you intend '='?
+  Prob_A.vcxproj -> C:\2Year\Challenge\Codeforces\#406 Div1\Prob_A\Debug\Prob_A.exe
+  Prob_A.vcxproj -> C:\2Year\Challenge\Codeforces\#406 Div1\Prob_A\Debug\Prob_A.pdb (Partial PDB)

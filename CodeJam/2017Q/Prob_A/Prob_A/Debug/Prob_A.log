@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\2year\challenge\codejam\2017q\prob_a\prob_a\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\2year\challenge\codejam\2017q\prob_a\prob_a\source.cpp(28): warning C4018: '<=': signed/unsigned mismatch
+c:\2year\challenge\codejam\2017q\prob_a\prob_a\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Prob_A.vcxproj -> C:\2Year\Challenge\CodeJam\2017Q\Prob_A\Debug\Prob_A.exe
+  Prob_A.vcxproj -> C:\2Year\Challenge\CodeJam\2017Q\Prob_A\Debug\Prob_A.pdb (Partial PDB)

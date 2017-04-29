@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\john\desktop\2year\challenge\codeforces\#360 div2(virtual)\prob_d\prob_d\소스.cpp(43): warning C4244: '/=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\john\desktop\2year\challenge\codeforces\#360 div2(virtual)\prob_d\prob_d\소스.cpp(44): warning C4244: '*=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Prob_D.vcxproj -> C:\Users\john\Desktop\2Year\Challenge\Codeforces\#360 Div2(Virtual)\Prob_D\Debug\Prob_D.exe
+  Prob_D.vcxproj -> C:\Users\john\Desktop\2Year\Challenge\Codeforces\#360 Div2(Virtual)\Prob_D\Debug\Prob_D.pdb (Partial PDB)
